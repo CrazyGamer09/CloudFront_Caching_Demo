@@ -14,6 +14,10 @@
     "jest": "^27.5.1"
   },
   "dependencies": {
+    "@aws-cdk/aws-cloudfront": "^1.169.0",
+    "@aws-cdk/aws-cloudfront-origins": "^1.169.0",
+    "@aws-cdk/aws-s3": "^1.169.0",
+    "@aws-cdk/core": "^1.169.0",
     "aws-cdk-lib": "2.38.0",
     "constructs": "^10.0.0"
   }
